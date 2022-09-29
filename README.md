@@ -1,6 +1,6 @@
 # SecureChannelStructure
 
-source code (use https://www.planttext.com/ to see the image)
+source code hierarchy (use https://www.planttext.com/ to see the image)
 
 ```
 @startuml
